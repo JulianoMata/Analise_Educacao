@@ -20,7 +20,7 @@ Este projeto foi desenvolvido como parte do estágio supervisionado obrigatório
 
 ## 🗂️ Organização do Projeto
 
-- `/base_de_dados_escola/` – Arquivos CSV do INEP (2019–2023)
+- `/base_de_dados_escola/` – Arquivos xlsx do INEP (2019–2023)
 - `/imagens/` – Capturas de tela do dashboard e das etapas de desenvolvimento
 - `educacao.pbix` – Arquivo principal do Power BI com o modelo final
 - `LICENSE` – Licença MIT para uso livre do projeto
